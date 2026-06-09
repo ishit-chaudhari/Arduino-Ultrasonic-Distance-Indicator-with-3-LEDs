@@ -23,7 +23,7 @@ A simple Arduino project that uses an HC-SR04 Ultrasonic Sensor to measure dista
 | LEDs (Green, Yellow, Red) | 3 |
 | 220Ω Resistors (Optional) | 3 |
 | Jumper Wires | Several |
-| Breadboard (Optional) | 1 |
+| Breadboard | 1 |
 
 ---
 
